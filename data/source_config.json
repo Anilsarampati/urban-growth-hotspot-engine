@@ -1,0 +1,16 @@
+{
+  "default_city": "Delhi NCR",
+  "municipal_pdf_urls": [
+    "https://eodb.mcd.gov.in/assets/doc/file_ref/New_Unified_Floorwise_policy.pdf",
+    "https://sec.delhi.gov.in/sites/default/files/SEC/generic_multiple_files/press_note_for_delimitation_of_wards_for_the_municipal_corporation_of_delhi.pdf"
+  ],
+  "municipal_urls": [],
+  "magicbricks_urls": [
+    "https://www.magicbricks.com/property-for-sale/residential-real-estate?cityName=New-Delhi"
+  ],
+  "99acres_urls": [
+    "https://www.99acres.com/property-in-delhi-ncr-ffid",
+    "https://www.99acres.com/flats-in-delhi-ncr-ffid"
+  ],
+  "listing_urls": []
+}

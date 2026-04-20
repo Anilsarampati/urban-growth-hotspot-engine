@@ -1,0 +1,6 @@
+city,zone,listing_density,price_psf_current,price_psf_12m_ago,rental_yield,rental_absorption,search_volume
+NCR,Zone-A,780,9800,8700,3.2,79,920
+NCR,Zone-B,560,7600,7100,3.7,72,640
+NCR,Zone-C,610,8200,7300,3.9,75,710
+NCR,Zone-D,900,11200,10300,2.9,68,980
+NCR,Zone-E,430,6400,5900,4.1,77,590

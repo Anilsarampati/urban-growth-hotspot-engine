@@ -1,0 +1,6 @@
+city,zone,lat,lon,declaration_type,announced_date,infra_impact_score
+NCR,Zone-A,28.6139,77.2090,Metro Extension,2025-01-15,88
+NCR,Zone-B,28.5355,77.3910,Sewage Upgrade,2025-03-02,67
+NCR,Zone-C,28.4595,77.0266,Ring Road Expansion,2025-02-08,92
+NCR,Zone-D,28.7041,77.1025,Land Use Change,2025-04-11,73
+NCR,Zone-E,28.4089,77.3178,Drainage Modernization,2025-01-27,61
